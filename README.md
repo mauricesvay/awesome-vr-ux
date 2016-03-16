@@ -16,6 +16,7 @@
 * Virtual reality menu design [part1](http://www.wearear.de/virtual-reality-menu-design-part1/) [part2](http://www.wearear.de/virtual-reality-menu-design-part-2/) - Daniel Sproll
 * [UX Pointers for VR Design](https://medium.com/@timoni/ux-pointers-for-vr-design-dd52b718e19) - timoni west
 * [From product design to virtual reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b) - Jean-Marc Denis
+* [Buttons in virtual reality - a UI/UX design approach](http://realityshift.io/blog/buttons-in-virtual-reality-a-ui-ux-design-approach) - RealityShift Blog (Mar 2016)
 
 ## Guidelines
 
