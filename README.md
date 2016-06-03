@@ -36,3 +36,4 @@
 * [Design for Virtual Reality](http://blog.framerjs.com/posts/design-virtual-reality.html) (Framer) - Jonas Treub
 * [Rapid prototyping for virtual reality](https://www.vincit.fi/en/blog/rapid-prototyping-for-virtual-reality-getting-started/) - Jouni Laaksonen
 * [Unity VR tutorials](http://unity3d.com/learn/tutorials/topics/virtual-reality/)
+* [Unreal VR Editor](https://docs.unrealengine.com/latest/INT/Engine/Editor/VR/index.html)
