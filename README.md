@@ -18,6 +18,7 @@
 * [From product design to virtual reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b) - Jean-Marc Denis
 * [Buttons in virtual reality - a UI/UX design approach](http://realityshift.io/blog/buttons-in-virtual-reality-a-ui-ux-design-approach) - RealityShift Blog (Mar 2016)
 * [The Storyteller’s Guide to the Virtual Reality Audience](https://medium.com/stanford-d-school/the-storyteller-s-guide-to-the-virtual-reality-audience-19e92da57497) - Stanford d.school (Apr 2016)
+* [Beyond Reality: First steps into the unknown](https://medium.com/kickpush-design/beyond-reality-first-steps-into-the-unknown-cbb19f039e51) Kickpush (Jun 2016)
 
 ## Guidelines
 
