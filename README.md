@@ -2,6 +2,7 @@
 
 ## Videos
 
+* [UI/UX design for WebVR with Josh Carpenter](https://www.youtube.com/watch?v=ZOaOYTOpwyM) (Jan 2015)
 * [John D. Carmack at UT Dallas](https://vimeo.com/126275510) (Apr 2015)
 * [Designing for virtual reality](https://youtu.be/Qwh1LBzz3AU) - Google I/O 2015 (May 2015)
 * [Interaction Design in VR: Valve's Lessons](https://www.youtube.com/watch?v=_vQo0ApkAtI) - GDC Europe 2015 (Oct 2015)
