@@ -40,3 +40,7 @@
 * [Unity VR tutorials](http://unity3d.com/learn/tutorials/topics/virtual-reality/)
 * [Unreal VR Editor](https://docs.unrealengine.com/latest/INT/Engine/Editor/VR/index.html)
 * [Vizor](http://vizor.io)
+* [Storyboarding in 3D](https://blog.prototypr.io/in-1949-pablo-picasso-worked-with-mit-educated-photographer-and-film-director-gjon-mili-in-a-6facc3f3d2dc)
+
+## Other
+* [VR Glossary](https://medium.com/@robbietilton/vr-glossary-81f1d8b5dccc) Robbie Tilton (Nov 2016)
