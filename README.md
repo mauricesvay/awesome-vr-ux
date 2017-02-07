@@ -11,19 +11,22 @@
   * [Designing for VR: Environments and Interactions](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions) - Microsoft Channel 9 (Jan 2016)
   * [Designing for VR: Input, Planning, and Testing](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing) - Microsoft Channel 9 (Jan 2016)
 
-## Articles
+## Design process articles
 
-* [How to Design for Virtual Reality](https://medium.com/backchannel/immersive-design-76499204d5f6) - Matt Sundstrom
+* [How to Design for Virtual Reality](https://medium.com/backchannel/immersive-design-76499204d5f6) - Matt Sundstrom (Apr 2015)
 * Virtual reality menu design [part1](http://www.wearear.de/virtual-reality-menu-design-part1/) [part2](http://www.wearear.de/virtual-reality-menu-design-part-2/) - Daniel Sproll
-* [UX Pointers for VR Design](https://medium.com/@timoni/ux-pointers-for-vr-design-dd52b718e19) - timoni west
-* [From product design to virtual reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b) - Jean-Marc Denis
+* [From product design to virtual reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b) - Jean-Marc Denis (Oct 2015)
+* [UX Pointers for VR Design](https://medium.com/@timoni/ux-pointers-for-vr-design-dd52b718e19) - timoni west (Nov 2015)
+* [Rapid prototyping for virtual reality](https://www.vincit.fi/en/blog/rapid-prototyping-for-virtual-reality-getting-started/) - Jouni Laaksonen (Nov 2015)
 * [Buttons in virtual reality - a UI/UX design approach](http://realityshift.io/blog/buttons-in-virtual-reality-a-ui-ux-design-approach) - RealityShift Blog (Mar 2016)
 * [The Storyteller’s Guide to the Virtual Reality Audience](https://medium.com/stanford-d-school/the-storyteller-s-guide-to-the-virtual-reality-audience-19e92da57497) - Stanford d.school (Apr 2016)
 * [Beyond Reality: First steps into the unknown](https://medium.com/kickpush-design/beyond-reality-first-steps-into-the-unknown-cbb19f039e51) Kickpush (Jun 2016)
 * [The Design of the Portal Locomotion](https://medium.com/neat-corp/the-design-of-the-portal-locomotion-2677f3b3f9b5) Joachim Holmér (Aug 2016)
+* [Storyboarding in 3D](https://blog.prototypr.io/in-1949-pablo-picasso-worked-with-mit-educated-photographer-and-film-director-gjon-mili-in-a-6facc3f3d2dc) Ann-Caryn Cleveland (Oct 2016)
+* [Draw sketches for virtual reality like pro](https://virtualrealitypop.com/vr-sketches-56599f99b357) Volodymyr Kurbatov (Jan 2017)
 * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/) Sam Applebee & Alex Deruette (Feb 2017)
 
-## Guidelines
+## Guidelines and best practices
 
 * [Designing for Google Cardboard](https://www.google.com/design/spec-vr/designing-for-google-cardboard/a-new-dimension.html)
   * [Cardboard Design Lab](https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab)
@@ -32,16 +35,16 @@
 * [Leap Motion VR Best Practices Guidelines](https://developer.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf)
 * [Virtual Reality Best Practices](https://docs.unrealengine.com/latest/INT/Platforms/VR/ContentSetup/index.html) from Unreal Engine
 
-## Prototyping
+## Prototyping tools
 
-* [A-Frame](https://aframe.io/)
+* [Sketchfab](https://sketchfab.com/): Upload your 3D scenes and view them in VR
+* [A-Frame](https://aframe.io/): Framework for making WebVR apps, by Mozilla
 * [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate)
-* [Design for Virtual Reality](http://blog.framerjs.com/posts/design-virtual-reality.html) (Framer) - Jonas Treub
-* [Rapid prototyping for virtual reality](https://www.vincit.fi/en/blog/rapid-prototyping-for-virtual-reality-getting-started/) - Jouni Laaksonen
+* [Design for Virtual Reality](https://blog.framer.com/design-for-virtual-reality-b510b4641ca9) (Framer) - Jonas Treub
 * [Unity VR tutorials](http://unity3d.com/learn/tutorials/topics/virtual-reality/)
 * [Unreal VR Editor](https://docs.unrealengine.com/latest/INT/Engine/Editor/VR/index.html)
-* [Vizor](http://vizor.io)
-* [Storyboarding in 3D](https://blog.prototypr.io/in-1949-pablo-picasso-worked-with-mit-educated-photographer-and-film-director-gjon-mili-in-a-6facc3f3d2dc)
+* [Vizor](http://vizor.io): Web editor for VR scenes
+* [React VR](https://github.com/facebookincubator/react-vr): Library for making WebVR apps with React, by Facebook
 
 ## Other
 * [VR Glossary](https://medium.com/@robbietilton/vr-glossary-81f1d8b5dccc) Robbie Tilton (Nov 2016)
