@@ -21,6 +21,7 @@
 * [The Storyteller’s Guide to the Virtual Reality Audience](https://medium.com/stanford-d-school/the-storyteller-s-guide-to-the-virtual-reality-audience-19e92da57497) - Stanford d.school (Apr 2016)
 * [Beyond Reality: First steps into the unknown](https://medium.com/kickpush-design/beyond-reality-first-steps-into-the-unknown-cbb19f039e51) Kickpush (Jun 2016)
 * [The Design of the Portal Locomotion](https://medium.com/neat-corp/the-design-of-the-portal-locomotion-2677f3b3f9b5) Joachim Holmér (Aug 2016)
+* [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/) Sam Applebee & Alex Deruette (Feb 2017)
 
 ## Guidelines
 
