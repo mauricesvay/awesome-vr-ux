@@ -23,6 +23,7 @@
 * [Beyond Reality: First steps into the unknown](https://medium.com/kickpush-design/beyond-reality-first-steps-into-the-unknown-cbb19f039e51) Kickpush (Jun 2016)
 * [The Design of the Portal Locomotion](https://medium.com/neat-corp/the-design-of-the-portal-locomotion-2677f3b3f9b5) Joachim Holmér (Aug 2016)
 * [Storyboarding in 3D](https://blog.prototypr.io/in-1949-pablo-picasso-worked-with-mit-educated-photographer-and-film-director-gjon-mili-in-a-6facc3f3d2dc) Ann-Caryn Cleveland (Oct 2016)
+* [Becoming a Virtual Reality Designer](https://medium.com/facebook-design/becoming-a-virtual-reality-designer-9dcf6ddea4c3) Maheen Sohail (Dec 2016)
 * [Draw sketches for virtual reality like pro](https://virtualrealitypop.com/vr-sketches-56599f99b357) Volodymyr Kurbatov (Jan 2017)
 * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/) Sam Applebee & Alex Deruette (Feb 2017)
 
@@ -47,6 +48,7 @@
 * [React VR](https://github.com/facebookincubator/react-vr): Library for making WebVR apps with React, by Facebook
 * [Sketch to VR](https://github.com/auxdesigner/Sketch-to-VR): Sketch plugin for viewing sketches in 360
 * [Pronto VR](http://prontovr.com/) online wireframing, designing, prototyping tool
+* [VR Prototyping Template](http://facebook.design/vr-template): Sketch and Unity templates by Facebook
 
 ## Other
 * [VR Glossary](https://medium.com/@robbietilton/vr-glossary-81f1d8b5dccc) Robbie Tilton (Nov 2016)
