@@ -45,6 +45,7 @@
 * [Unreal VR Editor](https://docs.unrealengine.com/latest/INT/Engine/Editor/VR/index.html)
 * [Vizor](http://vizor.io): Web editor for VR scenes
 * [React VR](https://github.com/facebookincubator/react-vr): Library for making WebVR apps with React, by Facebook
+* [Sketch to VR](https://github.com/auxdesigner/Sketch-to-VR): Sketch plugin for viewing sketches in 360
 
 ## Other
 * [VR Glossary](https://medium.com/@robbietilton/vr-glossary-81f1d8b5dccc) Robbie Tilton (Nov 2016)
