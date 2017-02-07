@@ -49,6 +49,7 @@
 * [Sketch to VR](https://github.com/auxdesigner/Sketch-to-VR): Sketch plugin for viewing sketches in 360
 * [Pronto VR](http://prontovr.com/) online wireframing, designing, prototyping tool
 * [VR Prototyping Template](http://facebook.design/vr-template): Sketch and Unity templates by Facebook
+* [Tilt Brush](https://www.tiltbrush.com/): VR Painting app by Google
 
 ## Other
 * [VR Glossary](https://medium.com/@robbietilton/vr-glossary-81f1d8b5dccc) Robbie Tilton (Nov 2016)
