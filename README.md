@@ -2,6 +2,7 @@
 
 ## Videos
 
+* [VR Design: Transitioning from a 2D to 3D Design Paradigm](https://www.youtube.com/watch?v=XjnHr_6WSqo) Samsung (Nov 2014)
 * [UI/UX design for WebVR with Josh Carpenter](https://www.youtube.com/watch?v=ZOaOYTOpwyM) (Jan 2015)
 * [John D. Carmack at UT Dallas](https://vimeo.com/126275510) (Apr 2015)
 * [Designing for virtual reality](https://youtu.be/Qwh1LBzz3AU) - Google I/O 2015 (May 2015)
@@ -14,6 +15,7 @@
 * [Daydream Labs: Lessons Learned from VR Prototyping - Google I/O 2016](https://www.youtube.com/watch?v=lGUmTQgbiAY) - Google I/O (May 2016)
 * [VR Design Process - Google I/O 2016](https://www.youtube.com/watch?v=-mcXAMDch7s) - Google I/O (May 2016)
 * [Designing for Daydream - Google I/O 2016](https://www.youtube.com/watch?v=00vzW2-PvvE) - Google I/O (May 2016)
+* [Unite Europe 2016 - User interface and gameplay design in VR](https://www.youtube.com/watch?v=mHt5epanF2c) - Unite Europe 2016 (Jun 2016)
 
 ## Design process articles
 
