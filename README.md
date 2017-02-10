@@ -6,6 +6,7 @@
 * [John D. Carmack at UT Dallas](https://vimeo.com/126275510) (Apr 2015)
 * [Designing for virtual reality](https://youtu.be/Qwh1LBzz3AU) - Google I/O 2015 (May 2015)
 * [Interaction Design in VR: Valve's Lessons](https://www.youtube.com/watch?v=_vQo0ApkAtI) - GDC Europe 2015 (Oct 2015)
+* [Unite 2015 - The Holodeck is here - Designing for Room-Scale VR](https://www.youtube.com/watch?v=U8mku0JvuLI) - Unity (Oct 2015)
 * [Oculus Connect 2: Navigating New Worlds: Designing UI and UX in VR](https://www.youtube.com/watch?v=braV_c4M8oI) - Oculus Connect 2 conference (Nov 2015)
 * Designing for VR by Liv Erickson:
   * [Designing for VR: Environments and Interactions](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions) - Microsoft Channel 9 (Jan 2016)
