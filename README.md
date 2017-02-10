@@ -11,6 +11,9 @@
 * Designing for VR by Liv Erickson:
   * [Designing for VR: Environments and Interactions](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions) - Microsoft Channel 9 (Jan 2016)
   * [Designing for VR: Input, Planning, and Testing](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing) - Microsoft Channel 9 (Jan 2016)
+* [Daydream Labs: Lessons Learned from VR Prototyping - Google I/O 2016](https://www.youtube.com/watch?v=lGUmTQgbiAY) - Google I/O (May 2016)
+* [VR Design Process - Google I/O 2016](https://www.youtube.com/watch?v=-mcXAMDch7s) - Google I/O (May 2016)
+* [Designing for Daydream - Google I/O 2016](https://www.youtube.com/watch?v=00vzW2-PvvE) - Google I/O (May 2016)
 
 ## Design process articles
 
