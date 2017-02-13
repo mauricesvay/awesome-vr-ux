@@ -34,6 +34,7 @@
 * [Becoming a Virtual Reality Designer](https://medium.com/facebook-design/becoming-a-virtual-reality-designer-9dcf6ddea4c3) Maheen Sohail (Dec 2016)
 * [Draw sketches for virtual reality like pro](https://virtualrealitypop.com/vr-sketches-56599f99b357) Volodymyr Kurbatov (Jan 2017)
 * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/) Sam Applebee & Alex Deruette (Feb 2017)
+* [Do People View All 360°?](https://blog.vrtigo.io/do-people-view-all-360-f60b858059fe) Vrtigo (feb 2017)
 
 ## Guidelines and best practices
 
