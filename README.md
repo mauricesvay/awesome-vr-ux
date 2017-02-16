@@ -59,6 +59,7 @@
 * [Pronto VR](http://prontovr.com/) online wireframing, designing, prototyping tool
 * [VR Prototyping Template](http://facebook.design/vr-template): Sketch and Unity templates by Facebook
 * [Tilt Brush](https://www.tiltbrush.com/): VR Painting app by Google
+* [WebVR Studio](http://webvrstudio.com/)
 
 ## Other
 * [VR Glossary](https://medium.com/@robbietilton/vr-glossary-81f1d8b5dccc) Robbie Tilton (Nov 2016)
