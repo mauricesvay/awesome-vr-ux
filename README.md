@@ -19,6 +19,7 @@
 * [Designing for Daydream - Google I/O 2016](https://www.youtube.com/watch?v=00vzW2-PvvE) - Google I/O (May 2016)
 * [Unite Europe 2016 - User interface and gameplay design in VR](https://www.youtube.com/watch?v=mHt5epanF2c) - Unite Europe 2016 (Jun 2016)
 * ['Job Simulator' Postmortem: VR Design, Tech, and Business Lessons Learned](http://www.gdcvault.com/play/1024256/-Job-Simulator-Postmortem-VR) - GDC 2017 (Feb 2017)
+* [Designing Screen Interfaces for VR](https://www.youtube.com/watch?v=ES9jArHRFHQ) Google I/O 2017 (May 2017)
 
 ## Design process articles
 
