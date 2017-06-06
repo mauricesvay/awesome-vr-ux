@@ -36,6 +36,7 @@
 * [Draw sketches for virtual reality like pro](https://virtualrealitypop.com/vr-sketches-56599f99b357) Volodymyr Kurbatov (Jan 2017)
 * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/) Sam Applebee & Alex Deruette (Feb 2017)
 * [Do People View All 360°?](https://blog.vrtigo.io/do-people-view-all-360-f60b858059fe) Vrtigo (feb 2017)
+* [Designing for VR | A Beginners Guide](https://blog.prototypr.io/designing-for-vr-a-beginners-guide-d2fe37902146) Blake Hudelson (may 2017)
 
 ## Guidelines and best practices
 
