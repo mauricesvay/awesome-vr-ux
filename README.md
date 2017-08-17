@@ -21,6 +21,7 @@
 * ['Job Simulator' Postmortem: VR Design, Tech, and Business Lessons Learned](http://www.gdcvault.com/play/1024256/-Job-Simulator-Postmortem-VR) - GDC 2017 (Feb 2017)
 * [VR201: Lessons from the Frontlines](https://developers.facebook.com/videos/f8-2017/vr201-lessons-from-the-frontlines/) Facebook F8 2017 (April 2017)
 * [Designing Screen Interfaces for VR](https://www.youtube.com/watch?v=ES9jArHRFHQ) Google I/O 2017 (May 2017)
+* [Handsfree Omnidirectional VR Navigation using Head Tilt](https://www.youtube.com/watch?v=wY_406KAx5k) ACM SIGCHI (July 2017)
 
 ## Design process articles
 
